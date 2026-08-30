@@ -1,0 +1,20 @@
+{
+  "title": "Senior Python Backend Engineer",
+  "required_skills": [
+    "python",
+    "rest api",
+    "sql",
+    "docker",
+    "aws"
+  ],
+  "preferred_skills": [
+    "kubernetes",
+    "django",
+    "fastapi",
+    "kafka",
+    "machine learning"
+  ],
+  "min_years_experience": 4.0,
+  "education_level": "Bachelor",
+  "description": "Design and maintain scalable Python services, REST APIs, and cloud infrastructure. Work closely with data teams."
+}

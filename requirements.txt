@@ -1,1 +1,4 @@
-# Add your project dependencies here
+# The core resume screening system runs on the Python standard library only.
+# Optional dependencies unlock .docx and .pdf resume support:
+#
+#   pip install python-docx pypdf

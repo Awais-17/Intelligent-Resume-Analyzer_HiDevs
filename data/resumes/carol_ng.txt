@@ -1,0 +1,31 @@
+Carol Ng
+carol.ng@mail.com
++44 20 1234 5678
+
+CAREER OBJECTIVE
+Data scientist with 10 years of experience in machine learning, predictive
+modeling, and data engineering on cloud platforms.
+
+CORE COMPETENCIES
+Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Machine Learning,
+Deep Learning, NLP, SQL, Spark, AWS, GCP, Airflow, Data Analysis, Tableau,
+Power BI, Docker
+
+PROFESSIONAL EXPERIENCE
+Lead Data Scientist - AnalyticsPro
+Apr 2021 - Present
+- Built ML pipelines for churn prediction (XGBoost, TensorFlow).
+- Managed batch ETL pipelines with Airflow and Spark on AWS.
+
+Senior Data Scientist - FinMetrics
+Jan 2018 - Apr 2021
+- Developed NLP models for financial document classification.
+- Deployed models behind REST APIs.
+
+Data Analyst - RetailCo
+Aug 2016 - Dec 2017
+- Produced Tableau dashboards and SQL analyses.
+
+EDUCATION
+Masters in Data Science - Tech University (2014 - 2016)
+Bachelor of Science in Statistics - State University (2010 - 2014)

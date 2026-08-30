@@ -1,0 +1,30 @@
+Alice Johnson
+alice.johnson@example.com
++1 (555) 123-4567
+
+SUMMARY
+Senior Python backend engineer with 7 years of experience designing scalable
+REST APIs and cloud infrastructure on AWS.
+
+SKILLS
+Python, REST API, SQL, PostgreSQL, Docker, AWS, Kubernetes, Django,
+FastAPI, Kafka, CI/CD, Git, Linux, Machine Learning, Tableau
+
+EXPERIENCE
+Senior Backend Engineer - CloudScale Inc.
+Mar 2021 - Present
+- Led migration of monolith to microservices on AWS (ECS + Fargate).
+- Built REST APIs serving 10M+ requests/day.
+- Introduced Kafka for event streaming between services.
+
+Backend Engineer - DataWorks Ltd.
+Jan 2019 - Mar 2021
+- Developed Django REST services with PostgreSQL.
+- Containerised services with Docker and deployed to Kubernetes.
+
+Software Engineer - StartupHub
+Jun 2016 - Dec 2018
+- Implemented Flask microservices and SQL reporting.
+
+EDUCATION
+B.S. Computer Science - State University (2012 - 2016)

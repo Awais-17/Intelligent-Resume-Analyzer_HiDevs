@@ -1,0 +1,28 @@
+Bob Martinez
+bob.martinez@example.net
+(555) 987-6543
+
+PROFILE
+Frontend developer and designer focused on JavaScript ecosystem. 2 years of
+industry experience building React applications.
+
+TECHNICAL SKILLS
+JavaScript, TypeScript, React, Angular, Vue, HTML, CSS, Node.js, Git,
+Figma, Agile, Scrum, Jira
+
+EMPLOYMENT HISTORY
+Frontend Developer - PixelWorks Agency
+Feb 2024 - Present
+- Built single-page applications with React and TypeScript.
+- Collaborated with designers in Agile sprints.
+
+Junior Developer - LocalWeb
+Jun 2023 - Feb 2024
+- Maintained WordPress sites, wrote JavaScript widgets.
+
+Intern - University IT
+May 2022 - Aug 2022
+- Assisted with responsive HTML/CSS pages.
+
+EDUCATION
+B.A. Graphic Design - City College (2020 - 2023)
